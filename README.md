@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prachi7670
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT, C, C++, PYTHON
+- 👀 I’m interested in HTML, CSS, JAVASCRIPT, C, C++, PYTHON, REACT, TAILWIND CSS
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? My email id is prachir599@gmail.com
